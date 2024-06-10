@@ -38,7 +38,7 @@ We check &eta; dependency for the periodic behavior below.
 
 ## Some initial conditions
 
-We simulate the PDE model to check emergence of Poincare sections on Elec-M phase. We simulate the PDE with different initial conditions.
+We simulate the PDE model with different initial conditions.
 
 ## Video
 [Simulation movie 4](https://github.com/Hiro06190/PERISTOCH/assets/40862678/33c8357c-0341-41e9-ac3e-3272505bcac8)
