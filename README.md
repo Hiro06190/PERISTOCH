@@ -60,7 +60,6 @@ We simulate the PDE model with different initial conditions to show profile cont
 ## Other simulations
 
 We simulate the PDE model with the initial condition including two shocks.
-
 Also, we simulate the PDE model with shifted initial conditions that take different points from L/2.
 
 
