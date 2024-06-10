@@ -9,6 +9,7 @@ We check &eta; dependency for the periodic behavior below.
 ## Video
 [Simulation movie 1](https://github.com/Hiro06190/PERISTOCH/assets/40862678/92f34e80-03e5-4d86-8d3e-c3d5ca80b48b)
 
+
 ### PDF Document
 [Elec-M Phase Portrait](slow_fast_ep0.01_eta100.pdf)
 
@@ -19,6 +20,7 @@ We check &eta; dependency for the periodic behavior below.
 ## Video
 [Simulation movie 2](https://github.com/Hiro06190/PERISTOCH/assets/40862678/d2976c9d-f213-48ef-9b67-75ece7d73795)
 
+
 ### PDF Document
 [Elec-M Phase Portrait](slow_fast_ep0.01_eta10.pdf)
 
@@ -28,6 +30,7 @@ We check &eta; dependency for the periodic behavior below.
 
 ## Video
 [Simulation movie 3](https://github.com/Hiro06190/PERISTOCH/assets/40862678/51490627-9cd2-44e3-b23f-a47f848dede7)
+
 
 ### PDF Document
 [Elec-M Phase Portrait](slow_fast_ep0.01_eta1.pdf)
