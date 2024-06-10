@@ -1,7 +1,8 @@
 # PERISTOCH
 
+Simulation of the PDE model.
 
-
+We check \eta dependency for the periodic behavior below.
 ## Video
 [Simulation movie 1](https://github.com/Hiro06190/PERISTOCH/assets/40862678/92f34e80-03e5-4d86-8d3e-c3d5ca80b48b)
 
@@ -33,6 +34,14 @@
 - **Video**: simulation movie with \epsilon=0.01, \eta=1.
 - **PDF**: Elec-M phase portrait.
 
+We simulate the PDE model to check emergence of Poincare sections on Elec-M phase. We simulate the PDE with different initial conditions.
+## Video
+[Simulation movie 4](https://github.com/Hiro06190/PERISTOCH/assets/40862678/33c8357c-0341-41e9-ac3e-3272505bcac8)
+
+
+### Descriptions
+- **Video**: simulation movie with \epsilon=0.02.
+- **PDF**: Elec-M phase portrait.
 
 
 
