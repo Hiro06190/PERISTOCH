@@ -41,16 +41,16 @@ We check &eta; dependency for the periodic behavior below.
 
 ## Some initial conditions
 
-We simulate the PDE model with different initial conditions. The first movie is for &epsilon;=0.02. The second movie is for &epsilon;=0.1.
+We simulate the PDE model with different initial conditions to show profile contractions. The first movie is for &epsilon;=0.02. The second movie is for &epsilon;=0.1.
 
 ## Video
-[Simulation movie 4](https://github.com/Hiro06190/PERISTOCH/assets/40862678/33c8357c-0341-41e9-ac3e-3272505bcac8)
+[Simulation movie 4](https://github.com/Hiro06190/PERISTOCH/assets/40862678/47afa198-25f6-4300-80a0-a03226de2fb9)
 
 ### Descriptions
 - **Video**: simulation movie with &epsilon;=0.02. x-axis is system size L=10, y-axis is u.
 
 ## Video
-[Simulation movie 4](https://github.com/Hiro06190/PERISTOCH/assets/40862678/d46f2f36-f7ab-459c-bd08-cf84ee331535
+[Simulation movie 4](https://github.com/Hiro06190/PERISTOCH/assets/40862678/7f1b796e-ed89-48c2-866c-306ad33df234
 )
 
 ### Descriptions
