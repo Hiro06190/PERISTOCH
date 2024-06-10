@@ -3,7 +3,7 @@
 
 
 ## Video
-- [Simulation movie 1](https://github.com/Hiro06190/PERISTOCH/assets/40862678/92f34e80-03e5-4d86-8d3e-c3d5ca80b48b)
+[Simulation movie 1](https://github.com/Hiro06190/PERISTOCH/assets/40862678/92f34e80-03e5-4d86-8d3e-c3d5ca80b48b)
 
 
 ### PDF Document
@@ -12,4 +12,28 @@
 ### Descriptions
 - **Video**: simulation movie with \epsilon=0.01, \eta=0.01.
 - **PDF**: Elec-M phase portrait.
+
+## Video
+[Simulation movie 2](https://github.com/Hiro06190/PERISTOCH/assets/40862678/d2976c9d-f213-48ef-9b67-75ece7d73795)
+
+### PDF Document
+[Elec-M Phase Portrait](slow_fast_ep0.01_eta10.pdf)
+
+### Descriptions
+- **Video**: simulation movie with \epsilon=0.01, \eta=0.1.
+- **PDF**: Elec-M phase portrait.
+
+## Video
+[Simulation movie 3](https://github.com/Hiro06190/PERISTOCH/assets/40862678/51490627-9cd2-44e3-b23f-a47f848dede7)
+
+### PDF Document
+[Elec-M Phase Portrait](slow_fast_ep0.01_eta1.pdf)
+
+### Descriptions
+- **Video**: simulation movie with \epsilon=0.01, \eta=1.
+- **PDF**: Elec-M phase portrait.
+
+
+
+
 
