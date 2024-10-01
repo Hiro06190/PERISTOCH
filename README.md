@@ -90,6 +90,35 @@ Simulation results of the PDE model with periodic flux.
 
 We check the behavior of the midpoint of the derivative of the profile.
 
+### c=0
+#### Video
+[Watch the simulation movie for c=0](https://github.com/Hiro06190/PERISTOCH/blob/main/animation_u_a_t_flux_c%3D0.mp4)
+
+#### Image
+![Derivative plot for c=0](https://github.com/Hiro06190/PERISTOCH/blob/main/derivative_plot_c%3D0.jpg)
+
+### c=1
+#### Video
+[Watch the simulation movie for c=1](https://github.com/Hiro06190/PERISTOCH/blob/main/animation_u_a_t_flux_c%3D1.mp4)
+
+#### Image
+![Derivative plot for c=1](https://github.com/Hiro06190/PERISTOCH/blob/main/derivative_plot_c%3D1.jpg)
+
+### c=2
+#### Video
+[Watch the simulation movie for c=2](https://github.com/Hiro06190/PERISTOCH/blob/main/animation_u_a_t_flux_c%3D2.mp4)
+
+#### Image
+![Derivative plot for c=2](https://github.com/Hiro06190/PERISTOCH/blob/main/derivative_plot_c%3D2.jpg)
+
+### c=5
+#### Video
+[Watch the simulation movie for c=5](https://github.com/Hiro06190/PERISTOCH/blob/main/animation_u_a_t_flux_c%3D5.mp4)
+
+#### Image
+![Derivative plot for c=5](https://github.com/Hiro06190/PERISTOCH/blob/main/derivative_plot_c%3D5.jpg)
+
+
 
 
 
