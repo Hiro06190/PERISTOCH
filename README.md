@@ -85,7 +85,10 @@ Also, we simulate the PDE model with shifted initial conditions that take differ
 ### Descriptions
 - **Video**: simulation movie with piece wise linear initial conditions and &epsilon;=0.02. The initial profiles are shifted from x=L/2.
 
-## Periodic potential, sin(kt)+c&epsilon;
+## Periodic flux, (sin(kt)+c&epsilon;)(1-n)n
+Simulation results of the PDE model with periodic flux.
+
+We check the behavior of the midpoint of the derivative of the profile.
 
 
 
