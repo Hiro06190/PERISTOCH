@@ -93,6 +93,7 @@ The following function gives the initial condition used in all simulations:
 
 We explore the behavior of the profile and its midpoint of the derivative under different values of the parameter `c`.
 The flux is given by (sin(kt)+c&epsilon;)(1-n)n.
+Here, &epsilon;=0.1 and k =10
 
 ### c=0
 #### Video
