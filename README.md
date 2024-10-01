@@ -88,7 +88,11 @@ Also, we simulate the PDE model with shifted initial conditions that take differ
 ## Periodic flux, (sin(kt)+c&epsilon;)(1-n)n
 Simulation results of the PDE model with periodic flux.
 
-We check the behavior of the midpoint of the derivative of the profile.
+The following function gives the initial condition used in all simulations:  
+**(tanh(x - L / 2) + 1) * 0.5**, where L is the system size.
+
+We explore the behavior of the profile and its midpoint of the derivative under different values of the parameter `c`.
+The flux is given by (sin(kt)+c&epsilon;)(1-n)n.
 
 ### c=0
 #### Video
