@@ -144,56 +144,56 @@ We explore the profile's behavior and derivative midpoint under different parame
 ![Derivative plot](https://github.com/user-attachments/assets/6d6a694d-aa9c-4ef2-9823-a1fd395a2d44)
 ---
 
-### c1=5.0, c2=-5.0, a=0.5, time average of \( a_{\pm} \)=0.417759.
+### c1=5.0, c2=-5.0, a=0.5, time average of $a_{\pm}$=0.417759.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/2596e615-ee90-4bab-a2dd-12e3d7314182)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/dc97924b-1102-4f35-8123-5959d9772885)
 ---
 
-### c1=5.0, c2=-10.0, a=2, time average of \( a_{\pm} \)=0.822467.
+### c1=5.0, c2=-10.0, a=2, time average of $a_{\pm}$=0.822467.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/2c79da72-128a-407b-b22c-16a620cd9fa2)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/46e5ebd9-0711-4f82-b827-59e3d7670189)
 ---
 
-### c1=5.0, c2=-10.0, a=1, time average of \( a_{\pm} \)=0.825859.
+### c1=5.0, c2=-10.0, a=1, time average of $a_{\pm}$=0.825859.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/e80a318e-cc04-41fb-9112-01b65401adbc)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/9abf55c5-e364-467b-87d4-a081414b1019)
 ---
 
-### c1=5.0, c2=-12.0, a=1, time average of \( a_{\pm} \)=0.984861.
+### c1=5.0, c2=-12.0, a=1, time average of $a_{\pm}$=0.984861.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/90138b02-f471-4079-893d-15e9044bfb87)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/f0eef70e-8923-4308-9a0e-7e98da8615e5)
 ---
 
-### c1=10.0, c2=-5.0, a=1, time average of \( a_{\pm} \)=0.008034.
+### c1=10.0, c2=-5.0, a=1, time average of $a_{\pm}$=0.008034.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/d1ca263d-87a1-4853-b4f2-df807be1cdb1)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/e3a66abd-c289-4da5-813e-980ec2115d56)
 ---
 
-### c1=10.0, c2=-10.0, a=1, time average of \( a_{\pm} \)=0.417759.
+### c1=10.0, c2=-10.0, a=1, time average of $a_{\pm}$=0.417759.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/d2208935-2535-4655-b1de-935606309191)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/95dc414b-1c37-4fa5-8dfd-65365e87b210)
 ---
 
-### c1=-5.0, c2=10.0, a=1, time average of \( a_{\pm} \)=-1.
+### c1=-5.0, c2=10.0, a=1, time average of $a_{\pm}$=-1.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/d4aafaa0-c9f8-40a8-89f5-7b752a014779)
 #### Image
 ![Derivative plot](https://github.com/user-attachments/assets/572516a4-46c9-45d4-9a11-338780efdef0)
 ---
 
-### c1=-10.0, c2=5.0, a=1, time average of \( a_{\pm} \)=1.
+### c1=-10.0, c2=5.0, a=1, time average of $a_{\pm}$=1.
 #### Video
 [Watch the simulation movie](https://github.com/user-attachments/assets/3bec2327-1c0d-449e-8d94-59abd1a83a6c)
 #### Image
