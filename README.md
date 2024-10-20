@@ -124,10 +124,10 @@ Here, &epsilon;=0.1 and k =10
 ![Derivative plot for c=5](https://github.com/Hiro06190/PERISTOCH/blob/main/derivative_plot_c%3D5.jpg)
 
 
-## Coupled model, \( a_{\pm} \)(M)(1-n)n
+## Coupled model, $a_{\pm}$(M)(1-n)n
 Simulation results for the coupled model.
 Here,
-\( a_{\pm} \)(M) = sign(M) =
+$a_{\pm}$(M) = sign(M) =
     a   if M > 0
     -a  if M <= 0
 
