@@ -128,15 +128,32 @@ Here, &epsilon;=0.1 and k =10
 Simulation results for the coupled model.
 Here,
 a_{±}(M) = sign(M) =
-    1   if M > 0
-    0   if M = 0
-    -1  if M < 0
+    a   if M > 0
+    -a  if M <= 0
 
 The following function gives the initial condition used in all simulations:  
 **(tanh(x - L / 2) + 1) * 0.5**, where L is the system size.
 
-We explore the profile's behavior and its derivative midpoint under different values of the parameters c1 and c2.
+We explore the profile's behavior and derivative midpoint under different parameters c1 and c2 values.
 
+
+### c1=5, c2=-5, a=1
+#### Video
+[Watch the simulation movie (c1=5, c2=-5, a=1)](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/animation_u_flux_M_c1%3D5.0_c2%3D-5.0_3.mp4)
+
+#### Image
+![Derivative plot for c1=5, c2=-5, a=1](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/derivative_plot_c1%3D5.0_c2%3D-5.0.jpg)
+
+---
+
+### c1=5.0, c2=-12.0, a=1
+#### Video
+[Watch the simulation movie (c1=5.0, c2=-12.0, a=1)](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/animation_u_flux_M_c1%3D5.0_c2%3D-12.0_average_a_t_%200.984861.mp4)
+
+#### Image
+![Derivative plot for c1=5.0, c2=-12.0, a=1](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/derivative_plot_c1%3D5.0_c2%3D-12.0_average_a_t_%200.984861.jpg)
+
+#### a± time average: 0.984861
 
 
 
