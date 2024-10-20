@@ -139,21 +139,11 @@ We explore the profile's behavior and derivative midpoint under different parame
 
 ### c1=5, c2=-5, a=1
 #### Video
-[Watch the simulation movie (c1=5, c2=-5, a=1)](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/animation_u_flux_M_c1%3D5.0_c2%3D-5.0_3.mp4)
+[Watch the simulation movie (c1=5, c2=-5, a=1)](https://private-user-images.githubusercontent.com/40862678/378142856-af9d4001-47d9-41aa-b46b-cf16f71bb142.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkzOTMzMzgsIm5iZiI6MTcyOTM5MzAzOCwicGF0aCI6Ii80MDg2MjY3OC8zNzgxNDI4NTYtYWY5ZDQwMDEtNDdkOS00MWFhLWI0NmItY2YxNmY3MWJiMTQyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDAyNTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmZWYwYjkxNmY4MDRlOTlmZjJhYTY0OGI4YmRjYWE0MjQzNGYyYmY4NGViNGZkODE5MDE5MGI1ZDRmOTI4OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eFWCdP7KXKOPi0YvpkYBmOVmuDhEuJrl2RIMUdHRLVo)
 
 #### Image
-![Derivative plot for c1=5, c2=-5, a=1](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/derivative_plot_c1%3D5.0_c2%3D-5.0.jpg)
+![Derivative plot for c1=5, c2=-5, a=1](https://private-user-images.githubusercontent.com/40862678/378142868-45e61d22-fc88-48d1-a25c-82d559ca8ec5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0MjQ0NjEsIm5iZiI6MTcyOTQyNDE2MSwicGF0aCI6Ii80MDg2MjY3OC8zNzgxNDI4NjgtNDVlNjFkMjItZmM4OC00OGQxLWEyNWMtODJkNTU5Y2E4ZWM1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDExMzYwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1MzIwNjEzYjZmNmQ1NTA5NjIxZjk1NmU2ODlhMWEzMzY5NmRjMDVkZDM1MzRmOWZmNTYxYmIxNTlhNTg3ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5fuiNHz8ftV7FdCOheprYe8RYjMmW8X9rLgNB2cmQbA)
 
----
-
-### c1=5.0, c2=-12.0, a=1
-#### Video
-[Watch the simulation movie (c1=5.0, c2=-12.0, a=1)](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/animation_u_flux_M_c1%3D5.0_c2%3D-12.0_average_a_t_%200.984861.mp4)
-
-#### Image
-![Derivative plot for c1=5.0, c2=-12.0, a=1](https://github.com/Hiro06190/PERISTOCH/blob/main/periodic_with_Mvariable/derivative_plot_c1%3D5.0_c2%3D-12.0_average_a_t_%200.984861.jpg)
-
-#### a± time average: 0.984861
 
 
 
