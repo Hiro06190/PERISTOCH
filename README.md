@@ -137,12 +137,70 @@ The following function gives the initial condition used in all simulations:
 We explore the profile's behavior and derivative midpoint under different parameters c1 and c2 values.
 
 
-### c1=5, c2=-5, a=1
+### c1=-5.0, c2=10.0, a=1, time average of a_{\pm}=-1.
 #### Video
-[Watch the simulation movie (c1=5, c2=-5, a=1)](https://private-user-images.githubusercontent.com/40862678/378142856-af9d4001-47d9-41aa-b46b-cf16f71bb142.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkzOTMzMzgsIm5iZiI6MTcyOTM5MzAzOCwicGF0aCI6Ii80MDg2MjY3OC8zNzgxNDI4NTYtYWY5ZDQwMDEtNDdkOS00MWFhLWI0NmItY2YxNmY3MWJiMTQyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDAyNTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmZWYwYjkxNmY4MDRlOTlmZjJhYTY0OGI4YmRjYWE0MjQzNGYyYmY4NGViNGZkODE5MDE5MGI1ZDRmOTI4OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eFWCdP7KXKOPi0YvpkYBmOVmuDhEuJrl2RIMUdHRLVo)
-
+[Watch the simulation movie](https://github.com/user-attachments/assets/d4aafaa0-c9f8-40a8-89f5-7b752a014779)
 #### Image
-![Derivative plot for c1=5, c2=-5, a=1](https://private-user-images.githubusercontent.com/40862678/378142868-45e61d22-fc88-48d1-a25c-82d559ca8ec5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0MjQ0NjEsIm5iZiI6MTcyOTQyNDE2MSwicGF0aCI6Ii80MDg2MjY3OC8zNzgxNDI4NjgtNDVlNjFkMjItZmM4OC00OGQxLWEyNWMtODJkNTU5Y2E4ZWM1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDExMzYwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1MzIwNjEzYjZmNmQ1NTA5NjIxZjk1NmU2ODlhMWEzMzY5NmRjMDVkZDM1MzRmOWZmNTYxYmIxNTlhNTg3ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5fuiNHz8ftV7FdCOheprYe8RYjMmW8X9rLgNB2cmQbA)
+![Derivative plot](https://github.com/user-attachments/assets/572516a4-46c9-45d4-9a11-338780efdef0)
+---
+
+### c1=-10.0, c2=5.0, a=1, time average of a_{\pm}=1.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/3bec2327-1c0d-449e-8d94-59abd1a83a6c)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/ec6b1330-262f-43d4-88e9-e59b132b2a0b)
+---
+
+### c1=5.0, c2=-5.0, a=1
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/c04a2413-3320-42a6-9118-e998c14a0475)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/6d6a694d-aa9c-4ef2-9823-a1fd395a2d44)
+---
+
+### c1=5.0, c2=-5.0, a=0.5, time average of a_{\pm}=0.417759.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/2596e615-ee90-4bab-a2dd-12e3d7314182)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/dc97924b-1102-4f35-8123-5959d9772885)
+---
+
+### c1=5.0, c2=-10.0, a=2, time average of a_{\pm}=0.822467.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/2c79da72-128a-407b-b22c-16a620cd9fa2)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/46e5ebd9-0711-4f82-b827-59e3d7670189)
+---
+
+### c1=5.0, c2=-10.0, a=1, time average of a_{\pm}=0.825859.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/e80a318e-cc04-41fb-9112-01b65401adbc)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/9abf55c5-e364-467b-87d4-a081414b1019)
+---
+
+### c1=5.0, c2=-12.0, a=1, time average of a_{\pm}=0.984861.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/90138b02-f471-4079-893d-15e9044bfb87)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/f0eef70e-8923-4308-9a0e-7e98da8615e5)
+---
+
+### c1=10.0, c2=-5.0, a=1, time average of a_{\pm}=0.008034.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/d1ca263d-87a1-4853-b4f2-df807be1cdb1)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/e3a66abd-c289-4da5-813e-980ec2115d56)
+---
+
+### c1=10.0, c2=-10.0, a=1, time average of a_{\pm}=0.417759.
+#### Video
+[Watch the simulation movie](https://github.com/user-attachments/assets/d2208935-2535-4655-b1de-935606309191)
+#### Image
+![Derivative plot](https://github.com/user-attachments/assets/95dc414b-1c37-4fa5-8dfd-65365e87b210)
+---
+
+
 
 
 
