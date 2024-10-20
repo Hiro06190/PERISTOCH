@@ -124,8 +124,18 @@ Here, &epsilon;=0.1 and k =10
 ![Derivative plot for c=5](https://github.com/Hiro06190/PERISTOCH/blob/main/derivative_plot_c%3D5.jpg)
 
 
+## Coupled model, a_{±}(M)(1-n)n
+Simulation results for the coupled model.
+Here,
+a_{±}(M) = sign(M) =
+    1   if M > 0
+    0   if M = 0
+    -1  if M < 0
 
+The following function gives the initial condition used in all simulations:  
+**(tanh(x - L / 2) + 1) * 0.5**, where L is the system size.
 
+We explore the profile's behavior and its derivative midpoint under different values of the parameters c1 and c2.
 
 
 
